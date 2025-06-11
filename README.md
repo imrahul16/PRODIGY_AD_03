@@ -57,6 +57,7 @@ This project was created as part of **PRODIGY AD Internship - Task 03** to demon
 
 **Rahul Dutta**
 [GitHub Profile](https://github.com/imrahul16)
+[LinkedIn](https://www.linkedin.com/in/imrahul16) • 
 
 
 📄 License
